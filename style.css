@@ -70,6 +70,7 @@ section .girl{
 }
 
 .login{
+    
     position: relative;
     padding: 60px;
     background: rgba(255, 255, 255,0.25);
@@ -86,6 +87,7 @@ section .girl{
 
 
 }
+
 
 .login h2{
     position: relative;
